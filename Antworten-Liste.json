@@ -1,0 +1,17 @@
+[
+  {
+    "frage": "Frage 1",
+    "checkboxA": "Checkbox A von Frage 1",
+    "checkboxB": "Checkbox B von Frage 1"
+  },
+  {
+    "frage": "Frage 2",
+    "checkboxA": "Checkbox A von Frage 2",
+    "checkboxB": "Checkbox B von Frage 2"
+  },
+  {
+    "frage": "Frage 3",
+    "checkboxA": "Checkbox A von Frage 3",
+    "checkboxB": "Checkbox B von Frage 3"
+  }
+]
